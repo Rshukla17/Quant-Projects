@@ -23,21 +23,34 @@ The goal is to apply **statistics**, **machine learning**, and **time-series ana
 
 ## 📁 Notebooks
 
-### 1. Blue Chip Stock Trend Analysis
-- Performs EDA and trend analysis on major blue-chip stocks
-- Uses moving averages, volatility bands, and price momentum
+### 1. 📈 Blue Chip Stock Trend Analysis
+Analyzes stock trends of major blue-chip companies.  
+**Key highlights:**
+- Simple Moving Averages (SMA)
+- Bollinger Bands
+- Trend visualization
 
-### 2. Gold ETF Price Prediction
-- Predicts Gold ETF prices using regression-based techniques
-- Includes feature engineering and backtesting components
+### 2. 🏆 Gold ETF Price Prediction
+Attempts to predict the future price of a Gold ETF using regression methods.  
+**Key highlights:**
+- Time-series preprocessing
+- Linear regression modeling
+- Performance metrics
 
-### 3. Mean Reversion Trading Strategy
-- Two-part series on identifying and testing mean-reverting assets
-- Includes Bollinger Bands and z-score thresholds
+### 3. ♻️ Mean Reversion Trading Strategy (Part 1 & 2)
+Implements and refines a mean reversion strategy using rolling statistics.  
+**Key highlights:**
+- Z-score threshold strategy
+- Backtesting logic
+- Strategy tuning across parts
 
-### 4. Risk Parity Portfolio
-- Constructs a portfolio that balances risk across assets
-- Implements equal risk contribution using historical volatilities
+### 4. ⚖️ Risk Parity Portfolio
+Builds a risk-parity portfolio that allocates capital based on asset volatility.  
+**Key highlights:**
+- Risk budgeting logic
+- Covariance matrix usage
+- Portfolio construction via equal risk contribution
+
 
 ---
 
